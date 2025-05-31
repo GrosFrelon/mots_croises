@@ -1,3 +1,3 @@
 # mots_croises
 
-ceçi est un mot croisé
+ceci est un mot croisé
